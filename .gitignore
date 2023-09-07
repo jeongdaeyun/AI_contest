@@ -1,0 +1,11 @@
+# virtualenv
+.venv/*
+
+# models
+*.pt
+
+# data
+data/*
+
+# logs
+runs/*
